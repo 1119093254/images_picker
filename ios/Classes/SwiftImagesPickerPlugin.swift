@@ -1,6 +1,5 @@
 import Flutter
 import UIKit
-import AssetsLibrary
 import Photos
 import MobileCoreServices
 import ZLPhotoBrowser
